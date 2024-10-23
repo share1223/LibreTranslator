@@ -237,8 +237,8 @@ const App = () => {
                 </div>
             )}
             <footer className="footer">
-                <a href="https://github.com/bestZwei/LibreTranslator" target="_blank" rel="noopener noreferrer">GitHub</a>
-                <span> | {t('poweredBy')}</span>
+                GitHub
+                <span></span>
             </footer>
         </div>
     );
