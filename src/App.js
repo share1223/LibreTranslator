@@ -162,7 +162,7 @@ const App = () => {
 
     return (
         <div className="container">
-            <h1>LibreTranslator</h1>
+            <h1>share1223在线翻译</h1>
             <div className="language-auto-translate">
                 <div className="language-switcher">
                     <label>Lang:</label>
